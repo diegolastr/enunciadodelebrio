@@ -50,8 +50,8 @@ const calculo = () => {
     <tbody>
     <tr>
     <th scope="row">1</th>
-    <td>${muestreo}</td>
-    <td>${exito}</td>
+    <td>${muestreo} veces</td>
+    <td>${exito} veces</td>
     <td>${exito / muestreo}</td>
     <td>${exito / muestreo * 100}%</td>
     </tr>
